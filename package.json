@@ -1,0 +1,13 @@
+{
+  "name": "node-dbify",
+  "description": "Load Database Objects in Memory",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ryan Johnston",
+    "email": "ryan@mediapixel.co.nz"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Firetrust/node-dbify.git"
+  }
+}
